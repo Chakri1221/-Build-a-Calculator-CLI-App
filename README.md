@@ -12,3 +12,21 @@ The goal of this task is to demonstrate the use of:
 
 4.CLI interaction using input() and print()
 
+==>What This Project Does
+This Command-Line Calculator App allows users to perform basic mathematical operations directly from the terminal. It supports:
+
+Addition
+
+Subtraction
+
+Multiplication
+
+Division (with error handling for division by zero)
+
+The user interacts with the program via the terminal/command line. They can choose an operation from a menu, input two numbers, and receive the result. The program runs in a loop, letting users perform multiple calculations until they choose to exit.
+
+
+
+
+
+
